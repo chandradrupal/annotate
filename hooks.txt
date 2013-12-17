@@ -1,0 +1,20 @@
+
+Modules
+---------
+variable_get()
+node_type_get_types()
+hook_node_load()
+
+
+Database
+----------
+field_create_field()
+
+
+Git
+---
+git config --global core.safecrlf false
+
+%HOMEDRIVE%%HOMEPATH%
+
+LF would be replaced by CRLF in annotate.admin.inc
